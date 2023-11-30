@@ -1,11 +1,5 @@
 files:
-  - source: /index.html
-    destination: /var/www/html/
-  - source: /mediaqueries.css
-    destination: /var/www/html/
-  - source: /script.js
-    destination: /var/www/html/
-  - source: /style.css
+  - source: /
     destination: /var/www/html/
 hooks:
   BeforeInstall:
